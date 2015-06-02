@@ -1,0 +1,14 @@
+{
+  "name": "files-uploader-with-react-nodejs",
+  "version": "1.0.0",
+  "description": "Files uploader with React and Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viettranx",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
